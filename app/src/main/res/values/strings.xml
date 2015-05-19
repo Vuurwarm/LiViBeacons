@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Liv IBeacon</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_koffee_shop">KoffeeShop</string>
+    <string name="title_activity_engin_room">EnginRoom</string>
+    <string name="title_activity_chill_room">ChillRoom</string>
+</resources>
